@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/project-screenshot.png" alt="Family Expense Tracker Preview" width="800" style="border-radius: 8px; border: 1px solid #ddd;">
+  <img src="assets/project-screenshot.png alt="Family Expense Tracker Preview" width="800" style="border-radius: 8px; border: 1px solid #ddd;">
 </p>
 
 <center>
