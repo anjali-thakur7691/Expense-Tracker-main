@@ -1,0 +1,52 @@
+/* Hide Streamlit Style */
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}
+
+/* Page Background Added */
+
+/* 1. हेडर, फुटर और मेनू को हटाना */
+#MainMenu, footer, header {
+    visibility: hidden !important;
+}
+
+/* 2. बैकग्राउंड इमेज सेटिंग्स */
+[data-testid="stAppViewContainer"] {
+    background-image: url("https://images.unsplash.com/photo-1542037104857-ffbb0b9155fb?q=80&w=1920") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+}
+
+/* 3. बीच के मुख्य बॉक्स को और ज़्यादा ओपेक (Solid White) बनाना */
+[data-testid="stVerticalBlock"] {
+    background-color: rgba(255, 255, 255, 0.97) !important; /* लगभग पूरा सफ़ेद ताकि पीछे का कोई भी रंग शब्दों को न दबाए */
+    padding: 30px !important;
+    border-radius: 16px !important;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* 4. मास्टर स्ट्रोक: ऐप के कोने-कोने के हर एक टेक्स्ट को गहरा नेवी ब्लू करना */
+* {
+    color: #0b1d33 !important; /* यह बिल्कुल गहरा नेवी ब्लू है जो सफ़ेद बैकग्राउंड पर 100% विज़िबल होगा */
+}
+
+/* 5. इनपुट फील्ड्स और सेलेक्ट बॉक्स के अंदर टाइप होने वाले टेक्स्ट को पूरी तरह ब्लैक रखना */
+input, select, textarea, [data-baseweb="select"], option {
+    color: #000000 !important;
+    -webkit-text-fill-color: #000000 !important; /* कुछ ब्राउज़र्स के लिए */
+}
+
+/* 6. अगर माउस ओवर करने पर टेक्स्ट गायब हो, तो उसके लिए */
+.stMarkdown p, .stMarkdown h1, .stMarkdown h2, .stMarkdown h3 {
+    color: #0b1d33 !important;
+}
