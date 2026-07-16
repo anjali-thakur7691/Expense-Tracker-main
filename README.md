@@ -1,16 +1,13 @@
 <h1 align="center">FAMILY EXPENSE TRACKER 🏦</h1>
 <p align="center">
-    <a href="https://github.com/SVijayB/PyHub"><img src="assets/logo-hacktober.svg" alt="Logo" border="0"></a><br>
-    <a href="https://github.com/SVijayB/PyHub"><img src="assets/pyLogo.png" alt="Logo" border="0"></a>
+    <img src="assets/pyLogo.png" alt="Python Logo" width="80" border="0">
 </p>
 
 <p align="center">
-![https://github.com/sree-hari-s/Expense-Tracker/network/members](https://img.shields.io/github/forks/sree-hari-s/Expense-Tracker?color=green) &nbsp;
-![https://github.com/sree-hari-s/Expense-Tracker/graphs/issues](https://img.shields.io/github/issues/sree-hari-s/Expense-Tracker)  &nbsp;
-![https://github.com/sree-hari-s/Expense-Tracker/graphs/contributors](https://img.shields.io/github/contributors/sree-hari-s/Expense-Tracker) &nbsp;
-![https://github.com/sree-hari-s/Expense-Tracker/stargazers](https://img.shields.io/github/stars/sree-hari-s/Expense-Tracker?color=red) &nbsp;
-![https://github.com/sree-hari-s/Expense-Tracker/watchers](https://img.shields.io/github/watchers/sree-hari-s/Expense-Tracker?color=yellow) &nbsp;
-![https://github.com/sree-hari-s/Expense-Tracker/license](https://img.shields.io/github/license/sree-hari-s/Expense-Tracker) &nbsp;
+![Forks](https://img.shields.io/github/forks/anjali-thakur7691/Expense-Tracker-main?color=green) &nbsp;
+![Issues](https://img.shields.io/github/issues/anjali-thakur7691/Expense-Tracker-main)  &nbsp;
+![Stars](https://img.shields.io/github/stars/anjali-thakur7691/Expense-Tracker-main?color=red) &nbsp;
+![License](https://img.shields.io/github/license/anjali-thakur7691/Expense-Tracker-main) &nbsp;
 [![code style: black](https://img.shields.io/badge/code%20style-black-000.svg)](https://github.com/psf/black) &nbsp;
 </p>
 
@@ -25,9 +22,9 @@ Welcome to the Family Expense Tracker - a simple Python project designed to help
 - ✨[Features](#features)
 - 🛠️[How to Use](#how-to-use)
 - ⚙️[Installation](#installation)
-- 👩‍💻[Project Author & Preview](#project-author--preview)
 - 🙌[How to Contribute](#how-to-contribute)
 - 📝[License](#license)
+- 👩‍💻[Author](#author)
 
 ## Introduction
 
@@ -51,7 +48,7 @@ The Expense Tracker features a simple and easy-to-navigate interface, ensuring a
 ## How to Use
 
 ### 1️⃣ **Add Family Members:**
-- Run the [application](https://expense-tracker-alpha.streamlit.app/) and choose the option to add family members.
+- Run the [application](https://expense-tracker-main-afztprenu4pwjdumwholpp.streamlit.app/) and choose the option to add family members.
 - Enter the names of the family members you want to track.
 
 ### 2️⃣ **Record Earnings:**
@@ -66,5 +63,5 @@ The Expense Tracker features a simple and easy-to-navigate interface, ensuring a
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone [https://github.com/sree-hari-s/Expense-Tracker.git](https://github.com/sree-hari-s/Expense-Tracker.git)
-cd Expense-Tracker
+git clone [https://github.com/anjali-thakur7691/Expense-Tracker-main.git](https://github.com/anjali-thakur7691/Expense-Tracker-main.git)
+cd Expense-Tracker-main
