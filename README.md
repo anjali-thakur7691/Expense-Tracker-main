@@ -1,7 +1,15 @@
 <h1 align="center">FAMILY EXPENSE TRACKER 🏦</h1>
 
 <p align="center">
+  <b>Project Developer & Owner: Anjali Thakur</b>
+</p>
+
+<p align="center">
     <img src="assets/pyLogo.png" alt="Python Logo" width="100" border="0">
+</p>
+
+<p align="center">
+  <img src="assets/project-screenshot.png" alt="Family Expense Tracker Preview" width="800" style="border-radius: 8px; border: 1px solid #ddd;">
 </p>
 
 <center>
@@ -17,7 +25,7 @@ Welcome to the Family Expense Tracker - a simple Python project designed to help
 - ⚙️[Installation](#installation)
 - 🙌[How to Contribute](#how-to-contribute)
 - 📝[License](#license)
-- 👩‍💻[Project Owner & Author](#project-owner--author)
+- 👩‍💻[Author](#author)
 
 ---
 
